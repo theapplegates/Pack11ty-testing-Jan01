@@ -10,4 +10,4 @@ Pack11ty now uses some of [Every Layout](https://every-layout.dev/) layouts and 
 
 
 
-![Wet Street Scene](https://applegate-paul.mo.cloudinary.net/pack11/https://storage.googleapis.com/cloudinarymedia/images/street-scene-wet.jpg)
+![Wet Street Scene](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/street-scene-wet.jpg)
