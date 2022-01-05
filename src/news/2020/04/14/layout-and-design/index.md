@@ -16,5 +16,9 @@ A Google Test Below
 
 applegate-paul.mo.cloudinary.net/pack11/https://storage.googleapis.com/cloudinarymedia/images/street-scene-wet.jpg
 
+The two images below should have Cloudinary's dpr_auto applied to them, as well as f_auto, g_auto which will choose the appropiate format to send the user.
+
 
 ![Wet streets be careful](https://applegate-paul.mo.cloudinary.net/pack11/https://storage.googleapis.com/cloudinarymedia/images/street-scene-wet.jpg)
+
+![jellyfish](https://applegate-paul.mo.cloudinary.net/pack11/https://storage.googleapis.com/cloudinarymedia/images/jelly-fish.jpg)
